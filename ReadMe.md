@@ -19,8 +19,6 @@ The program was run on Ubuntu 18.04 LTS and compiled using:
 	and NVIDIA nvcc release 10.2, V10.2.89
 
 To build and run the program will require a decent NVIDIA GPU and their SDK
-For installation testing (only) one binary data file and the corresponding 
-*.csv and *.ods results files are included. 
  
 Sub-Dir		Contents
 Doc		PhD Thesis (Pre-Publication)
