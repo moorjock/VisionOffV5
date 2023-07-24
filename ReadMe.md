@@ -23,9 +23,7 @@ For installation testing (only) one binary data file and the corresponding
 *.csv and *.ods results files are included. 
  
 Sub-Dir		Contents
-Data		Source Binary files
 Doc		PhD Thesis (Pre-Publication)
-Results		Resulting *.csv files
 Subs		Utility functions and classes used by VisionOffV5
 VisionOffV5	Main program components including make file
 
